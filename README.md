@@ -5,8 +5,10 @@ Repository ini dibuat untuk memenuhi Tugas Kecil 2 - Strategi Algoritma
 Repository ini dibuat untuk memenuhi Tugas Kecil 2 - Strategi Algoritma
 ## Deskripsi Singkat Program
 Program ini dibuat untuk menampilkan visualisasi tes linear separability dataset
-dengan memanfaatkan algoritma divide and conquer. 
-Bot that is used to compete on entelect challenge 2020, Overdrive.
+dengan memanfaatkan algoritma divide and conquer. Pemilihan titik pembentuk convex
+akan dipilih dengan metode rekursif berdasarkan jarak terjauh dari garis pembagi
+sampai tidak ada titik lagi untuk dibandingkan. hasil akhir akan berupa garis-garis
+penyusun convex.
 
 ## Dependencies
 
